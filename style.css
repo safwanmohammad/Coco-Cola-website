@@ -1,0 +1,186 @@
+.navb:hover
+{
+text-decoration: none;
+border-bottom: 2px solid red;
+}
+.body{
+  background-color: #4a4a4a;
+}
+.sec-link{
+  color: white;
+  text-decoration: none;
+}
+.sec-link:hover{
+  color: white;  
+}
+
+
+.h6{
+  font-family: "TCCC-UnityText-Regular", "TCCC-UnityText", sans-serif;
+}
+
+.img-fluid{
+  background-size: cover;
+  
+  background-repeat: no-repeat;
+}
+/* section-2 */
+.sec2-text-bar{
+  position: absolute;
+  left: 10px;
+  top: 55%;
+  left: 71%;
+  transform: translate(-50%, -50%);
+}
+.sec2-image-bar{
+  position: relative;
+  
+}
+.sec2-link{
+  color: white;
+  text-decoration: none;
+}
+.sec2-link:hover{
+  color: white;  
+}
+/* section-3 */
+.sec3-text-bar{
+  position: absolute;
+  left: 70px;
+  top: 35%;
+}
+.sec3-image-bar{
+  position: relative;
+  
+}
+.sec3-link{
+  color: white;
+  text-decoration: none;
+}
+.sec3-link:hover{
+  color: white;  
+}
+/* section-4 */
+.sec4-text-bar{
+  position: absolute;
+  left: 30px;
+  top: 23%;
+}
+.sec4-image-bar{
+  position: relative;
+  
+}
+.sec4-link{
+  color: white;
+  text-decoration: none;
+}
+.sec4-link:hover{
+  color: white;  
+}
+/* SECTION-5 */
+.sec5-text-bar{
+  position: absolute;
+  left: 10px;
+  top: 55%;
+  left: 71%;
+  transform: translate(-50%, -50%);
+}
+.sec5-image-bar{
+  position: relative;
+  
+}
+.sec5-link{
+  color: white;
+  text-decoration: none;
+}
+.sec5-link:hover{
+  color: white;  
+}
+/* SECTION-6 */
+.sec6-text-bar{
+  position: absolute;
+  left: 10px;
+  top: 55%;
+  left: 71%;
+  transform: translate(-50%, -50%);
+}
+.sec6-image-bar{
+  position: relative;
+  
+}
+.sec6-link{
+  color: white;
+  text-decoration: none;
+}
+.sec6-link:hover{
+  color: white;  
+}
+/* SECTION-7 */
+.sec7-text-bar{
+  position: absolute;
+  left: 70px;
+  top: 35%;
+}
+.sec7-image-bar{
+  position: relative;
+  
+}
+.sec7-link{
+  color: white;
+  text-decoration: none;
+}
+.sec7-link:hover{
+  color: white;  
+}
+.footerLinkList{
+  list-style: none;
+  display: flex;
+}
+
+.footer-link:after{
+content: "";
+    position: absolute;
+    top: 0.2rem;
+    bottom: 0.2rem;
+    right: -1rem;
+    border-right: 1px solid currentColor;
+}
+.footer .footer__logo .footerLinkList li a:after {
+  content: "";
+  position: absolute;
+  top: 0.2rem;
+  bottom: 0.2rem;
+  right: -1rem;
+  border-right: 1px solid currentColor;
+}
+
+::after::before {
+  box-sizing: border-box;
+}
+.footer-logo{
+margin-top: 30px;
+}
+.footerLinkList{
+  display: flex;
+  justify-content: space-around;
+}
+.footer-text{
+  padding-top: 35px;
+}
+.foot-list{
+  text-decoration: none;
+  color: white;
+}
+.foot-list:hover{
+  color: white; 
+}
+.footer-link{
+  display: flex;
+  justify-content:space-between ;
+}
+.socials{
+  display: flex;
+  justify-content: space-between;
+  color: white;
+  
+}
